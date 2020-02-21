@@ -1,0 +1,16 @@
+{
+  "name": "fetching-external-api-jokes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://acengen.github.io/jokes",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
